@@ -1,6 +1,6 @@
-# helloworld
+# FlutterCard
 
-A new Flutter project.
+A new Flutter project with a simple card in it
 
 ## Getting Started
 
